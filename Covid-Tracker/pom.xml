@@ -14,7 +14,7 @@
 	<name>Covid-Tracker</name>
 	<description>Covid Tracker application</description>
 	<properties>
-		<java.version>11</java.version>
+		<java.version>12</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
